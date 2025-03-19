@@ -85,3 +85,7 @@ http_response_time 482.45
 - **Efficient Metrics Exposure**: Registered only required metrics for Prometheus to optimize performance.
 
 
+## Presentation
+``` sh
+https://docs.google.com/presentation/d/1h1voGdIl0_ydi0YS0I7eWn1h_m97TAKKg_P0FrM13Z8/edit?usp=sharing
+```
